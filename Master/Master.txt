@@ -1,1 +1,2 @@
 Hi this is my first attempt in Master.txt file
+hi this is my second attempt in Master.txt file
